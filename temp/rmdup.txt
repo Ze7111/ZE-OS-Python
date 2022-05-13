@@ -1,0 +1,4 @@
+apps\apps.txt
+apps\SnakeGame.py
+apps\apps.txtapps\SnakeGame.py
+"Manifest Of Installed Programs"

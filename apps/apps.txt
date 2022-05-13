@@ -1,0 +1,14 @@
+Manifest Of Installed Programs
+apps\snake.py
+apps\apps.txt
+apps\pong.py
+apps\tetirs.py
+apps\calculator.py
+apps\__innit__.py
+apps\bitcoin.py
+apps\tictactoe.py
+apps\snake.cpython-310.pyc
+apps\bitcoin.cpython-310.pyc
+apps\tetirs.cpython-310.pyc
+apps\calculator.cpython-310.pyc
+apps\pong.cpython-310.pyc
