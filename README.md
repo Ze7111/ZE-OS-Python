@@ -1,4 +1,4 @@
-#  Z E - O S   P y t h o n
+#  Z E - O S - P y t h o n
 **ze os** is an operating system simulator written in Python, with a command line interface, the command line interface is inspired by UNIX to make it more user-friendly
 
 ## Features
