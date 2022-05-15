@@ -1,0 +1,5 @@
+if running a c++ file make sure to put clang++ then file name
+use zsh with ubuntu
+dhruv
+root
+make a texting app
